@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(189, 189, 189);
+}
+.container-fluid{
+    padding: 5px;
+    background-color: aquamarine;
+}
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  
